@@ -1,6 +1,6 @@
 # Hash Code 2021
 
-This is team Penguin's solution for the [#HashCode 2021 competition](https://hashcode.withgoogle.com/) on 25th February.
+This is team Penguin's solution for the [#HashCode 2021 competition](https://hashcode.withgoogle.com/) on February 25th.
 
 This repository contains the assignment, the source code and the test files.
 
